@@ -8,6 +8,8 @@ www.facebook.com/cyberhacks6
 ## Install Requirements (on Linux) termux
 ```
 >> pkg install git 
+>> pip install requests
+>> pip install responses 
 >> pkg install python -y 
 >> pkg install python3 -y 
 >> pip install requests
@@ -18,7 +20,7 @@ www.facebook.com/cyberhacks6
 ```
 
 
-## Protection Against Attacker
+## How to protect mail privacy
 * Do not give out / showcase your mail address to strangers 
 * Use a virtual private network service (VPN) a couple times in a while 
 * Avoid using the mail  service while on a public network 
