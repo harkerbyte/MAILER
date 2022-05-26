@@ -1,4 +1,4 @@
-# ANONYMOUS E-MAIL {ANONYMITY 99.9%}
+# Anonymous e-mail🔰♻
 ```
 An anonymous mailer for linux / shell terminals
 ```
