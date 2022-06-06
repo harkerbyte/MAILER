@@ -8,14 +8,16 @@ if sys.version_info[0] !=3:
     print("please follow the installation guide and do not omit any lines!!")
 
 Break
-print('\033[1;31m ___  ___  ___   _____  _      _____ ______\033[1;32m')
-print('\033[1;31m |  \/  | / _ \ |_   _|| |    |  ___|| ___ \\033[1;32m')
-print('\033[1;31m | .  . |/ /_\ \  | |  | |    | |__  | |_/ /\033[1;32m')
-print('\033[1;31m | |\/| ||  _  |  | |  | |    |  __| |    / \033[1;32m')
+print('----------------------------------------------------------------')
+print('\033[1;31m ___  ___  ___   _____  _      _____ ______ \033[1;31m')
+print('\033[1;31m |  \/  | / _ \ |_   _|| |    |  ___|| ___ \\033[1;31m')
+print('\033[1;31m | .  . |/ /_\ \  | |  | |    | |__  | |_/ /\033[1;31m')
+print('\033[1;31m | |\/| ||  _  |  | |  | |    |  __| |    / \033[1;31m')
 print('\033[1;31m | |  | || | | | _| |_ | |____| |___ | |\ \ \033[1;32m')
-print('\033[1;31m \_|  |_/\_| |_/ \___/ \_____/\____/ \_| \_|\033[1;32m')
+print('\033[1;31m \_|  |_/\_| |_/ \___/ \_____/\____/ \_| \_|\033[1;0m')
+print('----------------------------------------------------------------')
 print("\033[1;33mEXPLORE MORE IN HACKING - https://facebook.com/cyberhacks6\033[1;0m")
-print('\033[1;33mGITHUB PROFILE - https://github.com/shade234sherif\033[1;0m')
+print('\033[1;33mGITHUB PROFILE - https://github.com/shade234sherif\033[1;32m')
                                            
                                            
 print("\033[1;32mANONY MAILER BY CYBERNETICS ~ MADE BY AN HACKER FOR HACKERS\033[1;32m")
