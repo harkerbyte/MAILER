@@ -1,8 +1,8 @@
 import sys
+from http.client import responses
 from ast import Break, Try, excepthandler
 import mechanize
-import requests
-import responses
+
 
 if sys.version_info[0] !=3:
     print("please follow the installation guide and do not omit any lines!!")
@@ -14,9 +14,11 @@ print('\033[1;31m | .  . |/ /_\ \  | |  | |    | |__  | |_/ /\033[1;32m')
 print('\033[1;31m | |\/| ||  _  |  | |  | |    |  __| |    / \033[1;32m')
 print('\033[1;31m | |  | || | | | _| |_ | |____| |___ | |\ \ \033[1;32m')
 print('\033[1;31m \_|  |_/\_| |_/ \___/ \_____/\____/ \_| \_|\033[1;32m')
+print("\033[1;33mEXPLORE MORE IN HACKING - https://facebook.com/cyberhacks6\033[1;0m")
+print('\033[1;33mGITHUB PROFILE - https://github.com/shade234sherif\033[1;0m')
                                            
                                            
-print("ANONY MAILER BY CYBERNETICS ~ MADE BY AN HACKER FOR HACKERS")
+print("\033[1;32mANONY MAILER BY CYBERNETICS ~ MADE BY AN HACKER FOR HACKERS\033[1;32m")
 
 br = mechanize.Browser()
 
@@ -50,7 +52,7 @@ response_data = responses.r()
 if " The e-mail has been sent anonymously" in responses:
     print("\n The message has been successfully sent \n The recipient will get the message within 6hours!!! ")
 else: 
-    print('Failed to send message')
+    print('\033[1;31mFailed to send message\033[1;32m')
     print('\nPreparing an alternative module to fix issues.......\n')
 
 excepthandler
