@@ -65,4 +65,4 @@ ConnectionRefusedError
 Try
 print('\n please check your wifi ~ cellular data connection\n then RESTART SOFTWARE!!')
 
-sys.exit
+sys.exit()
