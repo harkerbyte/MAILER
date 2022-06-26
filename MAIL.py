@@ -5,9 +5,9 @@ import mechanize
 
 
 if sys.version_info[0] !=3:
-    print("please follow the installation guide and do not omit any lines!!")
+    print("please follow the usage commands!!")
+    sys.exit()
 
-Break
 print('----------------------------------------------------------------')
 print('\033[1;31m ___  ___  ___   _____  _      _____ ______ \033[1;31m')
 print('\033[1;31m |  \/  | / _ \ |_   _|| |    |  ___|| ___ \\033[1;31m')
