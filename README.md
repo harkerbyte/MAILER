@@ -14,6 +14,7 @@ www.facebook.com/cyberhacks6
 >> pkg install python3 -y 
 >> pip install requests
 >> pkg install mechanize 
+>> git clone https://github.com/shade234sherif/MAILER
 >> cd MAILER
 >> python3 MAIL.PY
 
