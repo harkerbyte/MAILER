@@ -7,6 +7,7 @@ www.facebook.com/cyberhacks6
 
 ## Install Requirements (on Linux) termux
 ```
+>> rm -rf MAILER
 >> pkg install git 
 >> pip install requests
 >> pip install responses 
