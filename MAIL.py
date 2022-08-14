@@ -1,5 +1,5 @@
 import sys
-from http.client import responses
+import requests
 from ast import Break, Try, excepthandler
 import mechanize
 
@@ -24,10 +24,10 @@ print("\033[1;32mANONY MAILER BY CYBERNETICS ~ MADE BY AN HACKER FOR HACKERS\033
 
 br = mechanize.Browser()
 
-to = input("Enter receivers mail address: ")
-subject = input("Enter your message subject: ")
-print ("Message: ")
-message = input("Enter your message content: ")
+to = input("Enter receivers mail address:")
+subject = input("Enter your message subject:")
+print ("Message:")
+message = input("Enter your message content:")
 
 url = "https://anonymouse.org/anonemail.html"
 headers = "Mozilla/4.0 (compatible; MSIE 5.0; AOL 4.0; Windows 95; c_athome)"
