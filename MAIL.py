@@ -47,7 +47,7 @@ br.form['To'] = to
 br.form['Subject'] = subject
 br.form['Message'] = message
 
-responses  = br.submit()
+responses = br.submit()
 
 responses_data = responses.r()
 
