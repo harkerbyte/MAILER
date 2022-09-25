@@ -51,7 +51,7 @@ responses = br.submit()
 
 responses_data = responses.r()
 
-if " The e-mail has been sent anonymously" in responses:
+if "Please note:	In order to increase your privacy, the anonymouse-mail will be randomly delayed up to 12 hours." in responses_data:
     print("\n The message has been successfully sent \n The recipient will get the message within 6hours!!! ")
 else: 
     print('\033[1;31mFailed to send message\033[1;32m')
