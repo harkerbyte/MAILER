@@ -3,7 +3,7 @@
 An anonymous mailer for linux / shell terminals
 ```
 ## Need help . Contact us via facebook
-www.facebook.com/cyberhacks6
+www.facebook.com/harkerbyte
 
 ## Install Requirements (on Linux) termux
 ```
@@ -15,7 +15,7 @@ www.facebook.com/cyberhacks6
 >> pkg install python3 -y 
 >> pip install requests
 >> pkg install mechanize 
->> git clone https://github.com/shade234sherif/MAILER
+>> git clone https://github.com/harkerbyte/MAILER
 >> cd MAILER
 >> python3 MAIL.PY
 
@@ -29,7 +29,7 @@ www.facebook.com/cyberhacks6
 * Avoid mail login on suspicious webpages  
 
 ## Explore More in Hacking ...
-https://www.facebook.com/cyberhacks6
+https://www.facebook.com/harkerbyte
 
 ## Blog site 
 https://cyberhacks.science.blog
